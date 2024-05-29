@@ -4,7 +4,7 @@ Rapid WhatsApp is a React-based project that simplifies the process of starting 
 
 ## Demo
 
-[![image](https://user-images.githubusercontent.com/74998585/232938597-003793ed-4a40-4b8e-a939-39b2e37c2c36.png)
+![image](https://user-images.githubusercontent.com/74998585/232938597-003793ed-4a40-4b8e-a939-39b2e37c2c36.png)
 
 
 ## Getting Started
